@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.links{
+	font-size: 100%;
+	color: blue;
+	text-decoration: underline;
+}
+p { 
+	font-size: 120%
+  }
+.item {
+	float: left;
+	padding-left: 30px;
+    text-align: center;
+    width: 120px;
+}
+.caption{
+	display: block
+		
+}
+.par{font-size: 100%;
+	color: blue;
+	text-decoration: underline;
+	padding-top: 350px
+}
